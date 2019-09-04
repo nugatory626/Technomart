@@ -4,6 +4,7 @@
 * Наставник: [Оксана Вайнруб] (https://up.htmlacademy.ru/htmlcss/26/user/166797).
 
 ---
+Та-даам!
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
 _`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`._
